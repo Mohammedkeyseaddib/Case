@@ -72,5 +72,9 @@ public class KjoretoyServiceTest {
         // Arrange & Act & Assert
         assertThrows(IllegalArgumentException.class, () -> kjoretoyService.slettKjoretoy("XYZ789"));
     }
+
+
+
+    // Teste for å se noe bare
 }
 
