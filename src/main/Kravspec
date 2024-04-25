@@ -1,0 +1,21 @@
+Kjøretøyadministrasjonssystemet:
+
+Opprette kjøretøy: Systemet skal tillate brukere å legge til nye kjøretøy i systemet ved å angi registreringsnummer, merke, modell og eierinformasjon.
+
+Vise kjøretøy: Systemet skal kunne vise detaljert informasjon om et spesifikt kjøretøy basert på registreringsnummer.
+
+Oppdatere kjøretøy: Brukere skal kunne oppdatere informasjonen om et eksisterende kjøretøy, inkludert eierinformasjon.
+
+Slette kjøretøy: Systemet skal tillate brukere å slette eksisterende kjøretøy fra systemet.
+
+Søke etter kjøretøy: Det bør være mulig å søke etter kjøretøy basert på forskjellige kriterier som registreringsnummer, merke eller eier.
+
+Enkel navigasjon: Grensesnittet bør være brukervennlig og gi enkel navigasjon gjennom funksjonene i systemet.
+
+Sikkerhet: Systemet bør ha grunnleggende sikkerhetsmekanismer på plass for å beskytte mot uautorisert tilgang og uønskede handlinger, for eksempel autentisering og autorisasjon.
+
+Enhetstesting: Alle kjernefunksjonalitetene i systemet skal være grundig testet ved hjelp av enhetstesting for å sikre pålitelighet og kvalitet.
+
+Lagring av data: Systemet skal lagre informasjon om kjøretøy på en pålitelig måte, for eksempel ved hjelp av en database eller lignende lagringsmekanisme.
+
+Disse kravene gir en grunnleggende oversikt over funksjonaliteten som forventes av Kjøretøyadministrasjonssystemet ditt. Du kan tilpasse og utvide disse kravene etter behov basert på spesifikke forretningsbehov og brukerkrav.
